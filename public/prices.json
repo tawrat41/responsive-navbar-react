@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Membership",
+      "price": 9.99,
+      "features": [
+        "Access to basic gym equipment",
+        "Limited group fitness classes",
+        "No contract commitment"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Premium Membership",
+      "price": 19.99,
+      "features": [
+        "Access to advanced gym equipment",
+        "Unlimited group fitness classes",
+        "6-month contract commitment"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Corporate Membership",
+      "price": 49.99,
+      "features": [
+        "Access to premium gym equipment",
+        "Unlimited group fitness classes",
+        "12-month contract commitment",
+        "Personal training sessions"
+      ]
+    }
+  ]
